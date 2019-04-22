@@ -115,7 +115,7 @@ For more check out the documentation https://github.com/idax-exchange/idax-offic
         print(message)
 
     # Initialize an idax wesocket client
-    connect = idaxWsClient.Connect("wss://openws.idax.pro/ws", on_message=on_message, on_open=on_open)
+    connect = idaxWsClient.Connect("url", on_message=on_message, on_open=on_open)
     connect.auth("key",
                  "secret")
 
