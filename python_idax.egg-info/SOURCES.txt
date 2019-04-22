@@ -1,0 +1,12 @@
+README.rst
+setup.py
+idax/__init__.py
+idax/idaxConst.py
+idax/idaxExceptions.py
+idax/idaxRestClient.py
+idax/idaxWsClient.py
+python_idax.egg-info/PKG-INFO
+python_idax.egg-info/SOURCES.txt
+python_idax.egg-info/dependency_links.txt
+python_idax.egg-info/requires.txt
+python_idax.egg-info/top_level.txt
