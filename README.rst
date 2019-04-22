@@ -18,7 +18,7 @@ brief
 --------
 This is an unofficial Python wrapper for the `IDAX exchange REST API v2 <https://github.com/idax-exchange/idax-official-api-docs>`_. I am in no way affiliated with IDAX, use at your own risk.
 
-If you came here looking for the `IDAX exchange <https://www.idax.global>`_ to purchase cryptocurrencies, then `go here <https://www.idax.globa>`_. If you want to automate interactions with IDAX stick around.
+If you came here looking for the `IDAX exchange <https://www.idax.global/#/exchangepro?pairname=ETH_BTC>`_ to purchase cryptocurrencies, then `go here <https://www.idax.global>`_. If you want to automate interactions with IDAX stick around.
 
 Source code
   Not on-line to be supplemented
