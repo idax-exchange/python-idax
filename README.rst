@@ -1,5 +1,5 @@
 ================================
-Welcome to python-idax v0.0.1
+Welcome to python-idax v2
 ================================
 
 pypi：v0.7.1
