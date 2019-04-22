@@ -116,8 +116,8 @@ For more check out the documentation https://github.com/idax-exchange/idax-offic
 
     # Initialize an idax wesocket client
     connect = idaxWsClient.Connect("wss://openws.idax.pro/ws", on_message=on_message, on_open=on_open)
-    connect.auth("93d6db906e814ab3b0ad5c77aa69ebc2bed4390b1f87444bb040ab775d347858d347858",
-                 "13896d803ff644d2a0033580b8f86b5abf10d2c9f2d9454da0541e586b6d77d4")
+    connect.auth("key",
+                 "secret")
 
     connect.run_forever()
 
