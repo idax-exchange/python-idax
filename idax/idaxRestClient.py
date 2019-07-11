@@ -19,7 +19,7 @@ import idax.idaxConst as idaxConst
 
 
 class IdaxRestClient(object):
-    API_URL = "https://qa-openapi.idax.mn"
+    API_URL = "https://openapi.idax.pro"
 
     """Initialization parameter is key,secret"""
 
